@@ -21,7 +21,7 @@ This project uses Github Pages to automatically deploy it to the live site. No o
 
 ## Usage
 
-There are no particular steps to usage other than to go to the Live Website (linked to above) and view the page.
+There are no particular steps to usage other than to go to the Live Website (linked to below) and view the page.
 
 ![Screen capture of entire page](/assets/images/screencapture.png)
 
