@@ -82,6 +82,25 @@ p {
     margin-left: 20px;
 }
 
+/* styles for section elements in the main content area */
+.content section {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+
+.content section img {
+    max-height: 200px;
+}
+
+.content section h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
 /* sidebar (aside) styles */
 aside {
     margin-right: 20px;
@@ -94,39 +113,20 @@ aside {
     background-color: #2589bd;
 }
 
-.benefit {
+aside section {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-.benefit h3 {
+aside section h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
-.benefit img {
+aside section img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
-}
-
-/* styles for section elements in the main content area */
-section {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-section img {
-    max-height: 200px;
-}
-
-section h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
 }
 
 /* styles for footer section */
